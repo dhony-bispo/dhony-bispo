@@ -13,9 +13,7 @@
 
 Trabalho em uma empresa de transportes, onde lido todos os dias com planilhas e controles operacionais. Foi aí que percebi o quanto a tecnologia pode simplificar o trabalho das pessoas, e hoje estou construindo minha carreira em desenvolvimento de software.
 
-- Cursando **Análise e Desenvolvimento de Sistemas** (Unigranrio Afya)
-- Estudando **Python** e **desenvolvimento web**
-- Interesse em automação de processos, desenvolvimento web e segurança digital
+Meus interesses são **automação de processos**, **desenvolvimento web** e **segurança digital**.
 
 ## Tecnologias
 
@@ -35,11 +33,11 @@ Trabalho em uma empresa de transportes, onde lido todos os dias com planilhas e 
 ### [Checa Aí](https://github.com/dhony-bispo/checa-ai)
 Site para verificar mensagens, notícias, imagens e vídeos suspeitos e se proteger de golpes com deepfakes. Tem um roteiro interativo de avaliação de risco, busca pronta em agências de checagem, busca reversa de imagens, um treino com situações reais de golpe e um checklist de segurança de contas.
 
-Desenvolvido em grupo para o Projeto de Extensão II do curso de ADS e usado em uma oficina presencial de treinamento.
+Desenvolvido em grupo para o Projeto de Extensão II do curso de ADS, para uso em uma oficina presencial de treinamento.
 
-`HTML` `CSS` `JavaScript` · [Ver o site](https://dhony-bispo.github.io/checa-ai/)
+`HTML` `CSS` `JavaScript` · [Ver o site](https://dhony-bispo.github.io/checa-ai/) · [Ver o código](https://github.com/dhony-bispo/checa-ai)
 
-## Aprendendo agora
+## Estudando agora
 
 - Python: lógica de programação e automação de tarefas
 - Métodos ágeis de desenvolvimento de software
